@@ -1,0 +1,24 @@
+{
+  "name": "bamazonhw",
+  "version": "1.0.0",
+  "description": "hw week 12",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^4.0.2",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkim85/amazonNodeMySql.git"
+  },
+  "author": "Danilo Kim Papito Rico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkim85/amazonNodeMySql/issues"
+  },
+  "homepage": "https://github.com/dkim85/amazonNodeMySql#readme"
+}
